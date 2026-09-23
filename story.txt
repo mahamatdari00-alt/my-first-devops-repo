@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 This is the beginning of my story.
+sudddenly, a shot rang out!
 And the sun was shining brightly.
->>>>>>> test
